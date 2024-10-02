@@ -1,2 +1,3 @@
 # Hey_Namibia
-my first reposity on github
+
+I am Simeon Akwaake doing a degree in advance web technology
